@@ -23,17 +23,21 @@ This project is ideal for learning the basics of 3D rendering and gaining hands-
    ```bash
    cd threejs-playground
    ```
-3. Install dependencies:
+3. Install parcel:
+   ```bash
+   npm install parcel -g
+   ```
+4. Install dependencies:
    ```bash
    npm install
    ```
-4. Start the development server:
+5. Run Parcel by typing this command:
    ```bash
-   npm run dev
+   npx parcel ./src/index.html
    ```
-5. Open your browser and visit:
+6. Open your browser and visit:
    ```
-   http://localhost:xxxx
+   http://localhost:1234
    ```
 
 ## Usage
@@ -47,7 +51,7 @@ This project is ideal for learning the basics of 3D rendering and gaining hands-
 
 - **Three.js**: For creating and rendering 3D objects.
 - **dat.GUI**: For a user-friendly graphical interface.
-- **JavaScript (ES6+)**: Core programming language.
+- **JavaScript**: Core programming language.
 
 ## Roadmap
 
@@ -85,4 +89,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-Enjoy with **Three.js Playground**!
+Enjoy your stay at the **Three.js Playground**!
