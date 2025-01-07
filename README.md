@@ -17,11 +17,11 @@ This project is ideal for learning the basics of 3D rendering and gaining hands-
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/threejs-playground.git
+   git clone https://github.com/your-username/three.js_playground.git
    ```
 2. Navigate to the project folder:
    ```bash
-   cd threejs-playground
+   cd three.js_playground
    ```
 3. Install parcel:
    ```bash
