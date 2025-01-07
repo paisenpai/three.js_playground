@@ -1,6 +1,10 @@
 # Three.js Playground
 
-A simple playground website for experimenting with **Three.js**, a 3D JavaScript library, to test out shapes, lighting, materials, and other features. This project is ideal for learning the basics of 3D rendering and gaining hands-on experience with Three.js.
+A simple playground website for experimenting with **Three.js**, a 3D JavaScript library
+
+Test out shapes, lighting, materials, textures, and other features. 
+
+This project is ideal for learning the basics of 3D rendering and gaining hands-on experience with Three.js.
 
 ## Features
 
